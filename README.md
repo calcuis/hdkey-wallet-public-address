@@ -1,6 +1,6 @@
-### common pulbic addresses
+### common pulbic addresses for bitcoin
 
- |Type|Since|Bitcoin|Encoding|Prefix|Length|
+ |Type|Since|Volume|Encoding|Prefix|Length|
  |:--:|:---:|:-----:|:------:|:----:|:----:|
 |P2PKH|Jan 2009|43% (8.3M)|Base58	|1|34|
 |P2SH|Apr 2012|24% (4.6M)|Base58|3|34|
