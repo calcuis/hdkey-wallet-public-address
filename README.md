@@ -9,7 +9,7 @@
 |P2TR|Nov 2021|0.1% (0.02M)|Bech32|bc1p|62|
 
 #### 🐷 chart (bitcoin holding in such address type)
- |Type|Indicator|Till 2024|
+ |type|indicator|till 2024|
  |:--:|-----|:---:|
 |P2PKH|🐷🐷🐷🐷🐷🐷🐷🐷🐷🐷🐷🐷🐷🐷🐷🐷|43%|
 |P2SH|🐷🐷🐷🐷🐷🐷🐷🐷🐷🐷|24%|
